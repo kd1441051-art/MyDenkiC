@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="MyDenkiC.vcxproj" Id="a0734a29-8c4d-4727-a63a-5ca4811d51af" />
+</Solution>

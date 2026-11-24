@@ -1,0 +1,17 @@
+name,TEPCO-JuryoDentoB
+contract_amp,30
+tier1_max,120.00
+tier2_max,300.00
+price1,29.8000
+price2,36.4000
+price3,40.4900
+fuel_adj,0.0000
+renew,4.1800
+discount,0.0000
+amp,10,311.75
+amp,15,467.63
+amp,20,623.50
+amp,30,935.25
+amp,40,1247.00
+amp,50,1558.75
+amp,60,1870.50
